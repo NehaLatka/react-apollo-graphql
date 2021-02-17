@@ -1,0 +1,29 @@
+[
+    {
+      "jobId": "j1",
+      "accuracy": 78,
+      "timestamp": "1 jan"
+    },
+    {
+      "jobId": "j2",
+      "accuracy": 78,
+      "timestamp": "2 jan"
+    },
+    {
+      "jobId": "j3",
+      "accuracy": 78,
+      "timestamp": "3 jan"
+    },
+    {
+      "jobId": "j4",
+      "accuracy": 78,
+      "timestamp": "4 jan"
+    },
+    {
+        "jobId": "j5",
+        "accuracy": 30,
+        "timestamp": "5 jan"
+      }
+  ]
+
+  

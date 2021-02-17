@@ -1,0 +1,12 @@
+[
+  {
+    "id": "firstName",
+    "label": "First Name",
+    "defaultValue": "Pragyal"
+  },
+  {
+    "id": "lastName",
+    "label": "Last Name",
+    "defaultValue": "Singhal"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "firstName",
+    "label": "First Name",
+    "defaultValue": "Pragyal",
+    "description":"i button",
+    "input type":"Text Field"
+
+  },
+  {
+    "id": "lastName",
+    "label": "Last Name",
+    "defaultValue": "Singhal",
+    "description":"i button",
+    "input type":"Date"
+
+  },
+  {
+    "id": "email",
+    "label": "Email",
+    "defaultValue": "pragyal.singhal@gslab.com",
+    "description":"i button",
+    "input type":"Radio"
+
+
+  },
+  {
+    "id": "some id",
+    "label": "some label",
+    "defaultValue": "some default value",
+    "description":"i button",
+    "input type":"Select"
+
+
+  },
+  {
+    "id": "some id",
+    "label": "some label",
+    "defaultValue": "some default value",
+    "description":"i button",
+    "input type":"Checkbox"
+
+
+  }
+]

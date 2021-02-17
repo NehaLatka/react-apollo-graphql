@@ -1,0 +1,17 @@
+[
+  {
+    "jobId": 1,
+    "timeTaken": 1,
+    "accuracy": 50
+  },
+  {
+    "jobId": 2,
+    "timeTaken": 2,
+    "accuracy": 90
+  },
+  {
+    "jobId": 3,
+    "timeTaken": 3,
+    "accuracy": 99
+  }
+]

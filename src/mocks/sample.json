@@ -1,0 +1,24 @@
+[
+  {
+    "id": "name",
+    "label": "Name",
+    "inputType": "TextField"
+  },
+  {
+    "id": "gender",
+    "label": "Gender",
+    "inputType": "Radio",
+    "data": ["Male", "Female"]
+  },
+  {
+    "id": "title",
+    "label": "Title",
+    "inputType": "Select",
+    "data": ["Mr.", "Mrs.", "Miss", "Master"]
+  },
+  {
+    "id": "age",
+    "label": "Age",
+    "inputType": "Slider"
+  }
+]

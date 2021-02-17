@@ -1,0 +1,26 @@
+[
+  {
+    "dataSet": "D1",
+    "model": "M1",
+    "accuracy": "50",
+    "jobTime": "1"
+  },
+  {
+    "dataSet": "D1",
+    "model": "M2",
+    "accuracy": "45",
+    "jobTime": "2"
+  },
+  {
+    "dataSet": "D2",
+    "model": "M1",
+    "accuracy": "90",
+    "jobTime": "3"
+  },
+  {
+    "dataSet": "D2",
+    "model": "M2",
+    "accuracy": "95",
+    "jobTime": "5"
+  }
+]
